@@ -60,11 +60,9 @@ h3{
     background-repeat: no-repeat; 
     background-position: left;
     text-align: center;
-    padding: 50px,50px;
 }
 section{
-    height: 1000px;
-    padding-bottom: 150px;
+    height: 800px;
 }
 .button-link{
     text-decoration: none;
